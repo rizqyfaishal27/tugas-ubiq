@@ -1,0 +1,70 @@
+Taman Kota A1
+A
+Deskripsi tentang A1
+bioskop, restoran, renang, parkir, mall
+
+Mall A2
+A
+Deskripsi tentang A2
+bioskop, restoran, renang, parkir, mall
+
+Taman Kota B1
+B
+Deskripsi tentang B1
+bioskop, restoran, renang, parkir, mall
+
+GOR B2
+B
+Deskripsi tentang B2
+restoran, renang, parkir
+
+Taman Kota C1
+C
+Deskripsi Tentang C1
+bioskop, restoran, renang, parkir, mall
+
+Taman Kota C2
+C
+Deskripsi Tentang C2
+bioskop, restoran, renang, parkir, mall
+
+Taman Kota D1
+D
+Deskripsi Tentang D1
+bioskop, restoran, renang, parkir, mall
+
+Taman Kota E1
+E
+Deskripsi tentang E1
+bioskop, restoran, renang, parkir, mall
+
+Taman Kota E2
+E
+Deskripsi tentang E2
+bioskop, restoran, renang, parkir, mall
+
+Taman Kota E3
+E
+Deskripsi tentang E3
+bioskop, restoran, renang, parkir, mall
+
+Taman kota F1
+F
+Deskripsi tentang F1
+bioskop, restoran, renang, parkir, mall
+
+Taman kota G1
+G
+Deskripsi tentang G1
+bioskop, restoran, renang, parkir, mall
+
+Taman kota H1
+H
+Deskripsi tentang H1
+bioskop, restoran, renang, parkir, mall
+
+Taman kota I1
+I
+Deskripsi tentang I1
+bioskop, restoran, renang, parkir
+

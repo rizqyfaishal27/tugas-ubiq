@@ -1,0 +1,21 @@
+Anto
+1 20 Kafe
+2 hujan Mall
+
+Bob
+1 25 Renang
+2 hujan Mall
+3 12:00 Restoran
+
+Cantik
+2 berawan Mall
+3 14:00 Kafe
+
+Dodi
+2 hujan Mall
+
+Edo
+1 27 Museum
+2 cerah Mall
+3 19:00 bioskop
+
